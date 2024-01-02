@@ -15,7 +15,7 @@ html {
 }
 
 .purple {
-  color: var(--imp-text-color) !important;
+  color: #0eb2db;
 }
 
 button:focus {
@@ -57,12 +57,12 @@ button:focus {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #2d1950;
+  background: #0f4350;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: rgba(178, 121, 216, 0.959);
+  background: #0eb2db;
   border-radius: 12px;
 }
 
@@ -194,7 +194,7 @@ button:focus {
   height: 5px;
   width: 0;
   border-radius: 16px;
-  background: #c95bf5;
+  background: #0eb2db;
   bottom: 1px;
   left: 0;
   z-index: -1;
@@ -281,17 +281,17 @@ button:focus {
 }
 
 .main-name {
-  color: #cd5ff8;
+  color: #0eb2db;
 }
 
 .Typewriter__wrapper {
   font-size: 2.2em !important;
-  color: #be6adf !important;
+  color: #0eb2db !important;
   font-weight: 600 !important;
 }
 .Typewriter__cursor {
   font-size: 2.4em !important;
-  color: #b562d6 !important;
+  color: #0eb2db !important;
 }
 
 @media (max-width: 767px) {
@@ -371,7 +371,7 @@ button:focus {
   width: 100%;
   height: 100%;
   border-radius: 50%;
-  background: #68187a;
+  background: #0eb2db;
   transition: 0.5s;
   transform: scale(0.9);
   z-index: -1;
@@ -379,13 +379,13 @@ button:focus {
 
 .home-social-icons:hover::before {
   transform: scale(1.1);
-  box-shadow: 0 0 15px #801f95;
+  box-shadow: 0 0 15px #0eb2db;
 }
 
 .home-social-icons:hover {
   color: #87209e;
-  box-shadow: 0 0 5px #87209e;
-  text-shadow: 0 0 2px #87209e;
+  box-shadow: 0 0 5px #0eb2db;
+  text-shadow: 0 0 2px #0eb2db;
 }
 
 .social-icons {
@@ -395,7 +395,7 @@ button:focus {
 }
 
 .icon-colour {
-  color: #700c86 !important;
+  color: #0eb2db !important;
 }
 
 /* --------- */
