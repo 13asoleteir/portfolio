@@ -11,7 +11,7 @@ function AboutCard() {
             Hi Everyone, I am <span className="purple">Christian S. Gallentes </span>
             from <span className="purple"> Pagadian City, Zamboanga Del Sur.</span>
             <br />
-            I am 3rd Student from Saint Columban College under the course of BSIT.
+            I am 3rd Year Student from Saint Columban College under the course of BSIT.
             <br />
             <br />
             Apart from coding, some other activities that I love to do!

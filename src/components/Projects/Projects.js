@@ -28,7 +28,7 @@ function Projects() {
               title="PC Parts"
               description="PC Parts is a dynamic computer shop website that I designed and developed using Angular, showcasing my proficiency in front-end development and user interface design. This project was a comprehensive exploration of building a responsive and feature-rich e-commerce platform tailored for tech enthusiasts."
               ghLink="https://github.com/13asoleteir/angular-pc-shop"
-              demoLink=""
+              demoLink="https://angular-pc-shop.vercel.app/home"
             />
           </Col>
 
